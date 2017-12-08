@@ -1,4 +1,14 @@
 # pixel2-google-issue
+*So, I purchased a Google Pixel 2 on Dec 2nd, paying extra to have it delivered between Dec the 4th and Dec the 7th. Upon checking order status I find a message stating that the shipping was delayed, and that they Google was working to solve it. Yikes! If I had not checked, I would not have found out until it was too late. No emails were sent!*
+
+*Immediately I got to work trying to find a solution, as the flight supposed to carry the phone was due on Dec the 12th.*
+
+*After many support requests met with default answers and a lot of stalling, I finally found out that **the issue with the delay was some mysterious problem between Google and one of their shipping partners**, and managed to get my hands on a very helpful chat support representative from Spain who was kindly enough to link me to our friendly local Australian chat support, who were the only ones able to solve my problem (hardware issues are, apparently, dealt at a local level).*
+
+*At this time my thoughts were: -"Okay, this is an internal Google problem, it may happen from time to time. If I cannot get my hands on the device in time, I will just have the money refunded and that's that".*
+
+*Well, suffice it to say I was in for a ride. Here is what happened...*
+
 **Ritz1:39 p. m.**
 
 Thanks for contacting Google Support. My name is Ritz.
