@@ -1,5 +1,5 @@
 # pixel2-google-issue
-*So, I purchased a Google Pixel 2 on Dec 2nd, paying extra to have it delivered between Dec the 4th and Dec the 7th. Upon checking order status I find a message stating that the shipping was delayed, and that they Google was working to solve it. Yikes! If I had not checked, I would not have found out until it was too late. No emails were sent!*
+*So, I purchased a Google Pixel 2 on Dec 2nd, paying extra to have it delivered between Dec the 4th and Dec the 7th. Upon checking order status I find a message stating that the shipping was delayed, and that Google was working to solve it. Yikes! If I had not checked, I would not have found out until it was too late. No emails were sent!*
 
 *Immediately I got to work trying to find a solution, as the flight supposed to carry the phone was due on Dec the 12th.*
 
